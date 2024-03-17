@@ -4,7 +4,6 @@ import com.google.gson.JsonObject;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
-import okhttp3.ResponseBody;
 import org.example.services.IProductService;
 import retrofit2.Call;
 import retrofit2.Retrofit;
